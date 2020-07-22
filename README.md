@@ -1,5 +1,5 @@
 # ResNet-PyTorch
-Implementation of ResNet 50, 101, 152 in PyTorch
+Basic implementation of ResNet 50, 101, 152 in PyTorch
 
 References:
 1. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
