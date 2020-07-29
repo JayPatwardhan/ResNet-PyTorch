@@ -1,5 +1,5 @@
 # ResNet-PyTorch
-Basic implementation of ResNet 50, 101, 152 in PyTorch based on the paper "Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun.
+Implementation of ResNet 50, 101, 152 in PyTorch based on the paper "Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun.
 
 A baseline run of ResNet50 on the CIFAR-10 dataset is given as well, with the standard setup proposed by the paper it already achieves around 85.6% accuracy. However, this can definitely be brought up to at least 92% accuracy via some more slight optimization.
 
