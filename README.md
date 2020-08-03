@@ -1,5 +1,5 @@
 # ResNet-PyTorch
-Implementation of ResNet 50, 101, 152 in PyTorch based on the paper "Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. I used the paper of course as well as a couple repos as references.
+Implementation of ResNet 50, 101, 152 in PyTorch based on paper "Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. I used the paper of course as well as a couple repos as references.
 
 Currently working on implementing the ResNet 18 and 34 architectures as well which do not include the Bottleneck in the residual block.
 
